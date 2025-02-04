@@ -1,2 +1,2 @@
 # SphinxTest
-Testing Sphinx Document with Github Pages
+Testing Sphinx Document for Github Pages
