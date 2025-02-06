@@ -49,7 +49,7 @@ jobs:
         #  cd docs
         #  poetry run make html
         run: |
-          cd SphinxTest
+          cd docs
           make html
       - name: Setup Pages
         uses: actions/configure-pages@v1
